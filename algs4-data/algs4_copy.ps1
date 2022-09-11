@@ -1,0 +1,1 @@
+Copy-Item -Path .\algs4-data -Destination "C:\Program Files (x86)\ALGS4" -Recurse
