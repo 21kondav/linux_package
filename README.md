@@ -1,7 +1,7 @@
 # University CompSci
 Deploys useful commands, programs, and files for undergraduate computer science courses with linux in academia.
 
-1. ALGS4 (sourced from [Princeton] (https://algs4.cs.princeton.edu/home/))
+1. ALGS4 (sourced from [Princeton](https://algs4.cs.princeton.edu/home/))
   - Used for Data Structures and Algorithms courses
 2. Cronjob will check for updates
 3. jre
